@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a second-year graduate student from  [Nanjing University Of Chinese Medicine](https://gra.njucm.edu.cn/) My major is traditional Chinese Medicine,however, I have been studying free radical chemistry with my supervisor in graduate school.
 
-So far, I have published one academic paper in the international authoritative journal Chemical Science with an impact factor of 9.9, and I am the first author. Organic Chemistry Frontiers published 1 academic paper with impact factor 5.4, in which the supervisor was the first author and I was the second author.
+So far, I have published one academic paper in the international authoritative journal Chemical Science with an impact factor of 9.9, and I am the first author(https://pubs.rsc.org/en/content/articlelanding/2023/sc/d2sc06145g). Organic Chemistry Frontiers published 1 academic paper with impact factor 5.4, in which the supervisor was the first author and I was the second author.
 
 I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
